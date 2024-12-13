@@ -2,7 +2,7 @@ import Comp from "./components/Comp"
 export default function App() {
   return(
     <>
-    <Comp />
+    <Comp name="chamkit" />
     <Comp />
     <Comp />
     </>

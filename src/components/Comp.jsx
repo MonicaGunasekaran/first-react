@@ -1,7 +1,7 @@
 export default function Comp(){
     return(
-        <>
-        <h1>Hi this is component</h1>
+        <>prop
+        <h1>Hi this is component I am checking at 7 35 pm</h1>
         </>
 
     )
