@@ -1,4 +1,4 @@
-import Comp from "./Comp"
+import Comp from "./components/Comp"
 export default function App() {
   return(
     <>
